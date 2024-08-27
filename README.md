@@ -51,13 +51,14 @@ Examples:
 ## Run full stack environment locally
 
 You can run a full OH2 stack locally using [Docker](https://www.docker.com/) (required) using this command:
-( - docker-compose up
+
+- `docker-compose up`
 
 Then you can access to:
 
 - OH2 react app: [localhost:3030](http://localhost:3030)
 - Swagger api spec: [localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-- Phpmyadmin, for looking inside database: [localhost:9000](http://localhost:9000)
+- PhpMyAdmin, for looking inside database: [localhost:9000](http://localhost:9000)
 
 ## How to publish on Web Server
 
